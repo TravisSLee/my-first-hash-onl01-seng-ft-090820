@@ -43,5 +43,5 @@ shipping_manifest["gun powder"] = 4
 end
 
 def retrieval
-  shipping_manifest["oil paintings"] = 3
+  shipping_manifest
 end
