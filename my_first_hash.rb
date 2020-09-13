@@ -41,3 +41,7 @@ shipping_manifest["gun powder"] = 4
   # return the shipping_manifest hash below
  puts shipping_manifest
 end
+
+def retrieval
+  shipping_manifest["oil paintings"] = 3
+end
